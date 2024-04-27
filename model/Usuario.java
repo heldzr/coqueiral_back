@@ -1,5 +1,3 @@
-package coqueiral_back.model;
-
 public class Usuario {
     private String nome;
     private String cpf;
